@@ -1,0 +1,270 @@
+{
+  "figmaFileKey": "DZiTZNZ9iBoi4AdjYUvIFp",
+  "figmaFrameId": "18:2",
+  "originalSize": {
+    "width": 2460,
+    "height": 10500
+  },
+  "assets": [
+    {
+      "designName": "imgLineRoundedLaptop",
+      "file": "images/LaptopIcon.svg"
+    },
+    {
+      "designName": "imgFrame2",
+      "file": "images/HeroDeveloper.jpg"
+    },
+    {
+      "designName": "imgIconBox",
+      "file": "images/NetworkInfrastructure.jpg"
+    },
+    {
+      "designName": "imgIconBox1",
+      "file": "images/CybersecurityProcessor.png"
+    },
+    {
+      "designName": "imgIconBox2",
+      "file": "images/CloudSolutionsIllustration.jpg"
+    },
+    {
+      "designName": "imgIconBox3",
+      "file": "images/SoftwareDevelopment.jpg"
+    },
+    {
+      "designName": "imgImageBox",
+      "file": "images/OfficeTeam.jpg"
+    },
+    {
+      "designName": "imgImage1",
+      "file": "images/DigitalDevelopment.jpg"
+    },
+    {
+      "designName": "imgImage3",
+      "file": "images/ITTeam.jpg"
+    },
+    {
+      "designName": "imgImage5",
+      "file": "images/DataProtection.jpg"
+    },
+    {
+      "designName": "imgShadow",
+      "file": "images/PartnerLogosShadow.png"
+    },
+    {
+      "designName": "imgLogo",
+      "file": "images/DellLogo.jpg"
+    },
+    {
+      "designName": "imgLogo1",
+      "file": "images/CiscoLogo.png"
+    },
+    {
+      "designName": "imgLogo2",
+      "file": "images/GoogleCloudLogo.jpg"
+    },
+    {
+      "designName": "imgLogo3",
+      "file": "images/AmazonWebServicesLogo.jpg"
+    },
+    {
+      "designName": "imgLogo4",
+      "file": "images/MicrosoftLogo.jpg"
+    },
+    {
+      "designName": "imgLigayaTechLogoNonbg1",
+      "file": "images/LigayaTechLogo.png"
+    },
+    {
+      "designName": "imgEllipse1",
+      "file": "images/SecurityShield.png"
+    },
+    {
+      "designName": "imgEllipse2",
+      "file": "images/BusinessGrowth.png"
+    },
+    {
+      "designName": "imgImage7",
+      "file": "images/TeamPlanning.png"
+    },
+    {
+      "designName": "imgEllipse3",
+      "file": "images/BusinessHandshake.png"
+    },
+    {
+      "designName": "imgImage9",
+      "file": "images/TechnologyDelivery.png"
+    },
+    {
+      "designName": "imgImage11",
+      "file": "images/BusinessConsultation.png"
+    },
+    {
+      "designName": "imgEllipse4",
+      "file": "images/InstagramIcon.png"
+    },
+    {
+      "designName": "imgEllipse5",
+      "file": "images/XIcon.png"
+    },
+    {
+      "designName": "imgEllipse6",
+      "file": "images/FacebookIcon.png"
+    },
+    {
+      "designName": "imgEllipse7",
+      "file": "images/YouTubeIcon.png"
+    },
+    {
+      "designName": "imgBackground",
+      "file": "images/GetStartedButtonBackground.svg"
+    },
+    {
+      "designName": "imgBackground1",
+      "file": "images/ExploreServicesButtonBackground.svg"
+    },
+    {
+      "designName": "imgGroup4",
+      "file": "images/GetStartedArrow.svg"
+    },
+    {
+      "designName": "imgBackground2",
+      "file": "images/ServicesBackground.svg"
+    },
+    {
+      "designName": "imgGroup1",
+      "file": "images/ITInfrastructureArrow.svg"
+    },
+    {
+      "designName": "imgGroup2",
+      "file": "images/DigitalServicesArrow.svg"
+    },
+    {
+      "designName": "imgGroup3",
+      "file": "images/LearnMoreArrow.svg"
+    },
+    {
+      "designName": "imgGroup5",
+      "file": "images/AboutUsArrow.svg"
+    },
+    {
+      "designName": "imgQuote",
+      "file": "images/QuoteMark.svg"
+    },
+    {
+      "designName": "imgLine60",
+      "file": "images/QuoteDivider.svg"
+    },
+    {
+      "designName": "imgGroup9",
+      "file": "images/ImpactBackground.svg"
+    },
+    {
+      "designName": "imgImage",
+      "file": "images/DigitalPhotoMask.svg"
+    },
+    {
+      "designName": "imgBackground3",
+      "file": "images/SolutionPanelBackground.svg"
+    },
+    {
+      "designName": "imgBackground4",
+      "file": "images/SolutionButtonBackground.svg"
+    },
+    {
+      "designName": "imgGroup6",
+      "file": "images/SolutionArrow.svg"
+    },
+    {
+      "designName": "imgImage2",
+      "file": "images/ITPhotoMask.svg"
+    },
+    {
+      "designName": "imgGroup7",
+      "file": "images/ExploreITArrow.svg"
+    },
+    {
+      "designName": "imgImage4",
+      "file": "images/SecurityPhotoMask.svg"
+    },
+    {
+      "designName": "imgBackground5",
+      "file": "images/PartnerLogosBackground.svg"
+    },
+    {
+      "designName": "imgBackground6",
+      "file": "images/WhyChooseUsBackground.svg"
+    },
+    {
+      "designName": "imgBackground7",
+      "file": "images/ReliableCardBackground.svg"
+    },
+    {
+      "designName": "imgRating",
+      "file": "images/ReliableFiveStarRating.svg"
+    },
+    {
+      "designName": "imgBackground8",
+      "file": "images/ScalableCardBackground.svg"
+    },
+    {
+      "designName": "imgRating1",
+      "file": "images/FiveStarRating.svg"
+    },
+    {
+      "designName": "imgBackground9",
+      "file": "images/ApproachCardBackground.svg"
+    },
+    {
+      "designName": "imgImage6",
+      "file": "images/DesignPhotoMask.svg"
+    },
+    {
+      "designName": "imgBackground10",
+      "file": "images/CustomerFocusedCardBackground.svg"
+    },
+    {
+      "designName": "imgImage8",
+      "file": "images/DeliverPhotoMask.svg"
+    },
+    {
+      "designName": "imgBackground11",
+      "file": "images/UnderstandCardBackground.svg"
+    },
+    {
+      "designName": "imgImage10",
+      "file": "images/UnderstandPhotoMask.svg"
+    },
+    {
+      "designName": "imgBackground12",
+      "file": "images/NewsletterInputBackground.svg"
+    },
+    {
+      "designName": "imgButton",
+      "file": "images/NewsletterSubmitButton.svg"
+    },
+    {
+      "designName": "imgDivider",
+      "file": "images/FooterDivider.svg"
+    },
+    {
+      "designName": "imgLineRoundedHeart",
+      "file": "images/HeartIcon.svg"
+    },
+    {
+      "designName": "imgLineRoundedNewsletter",
+      "file": "images/NewsletterIcon.svg"
+    },
+    {
+      "designName": "imgLineRoundedUserSimple",
+      "file": "images/UserIcon.svg"
+    },
+    {
+      "designName": "imgBackground13",
+      "file": "images/WorkTogetherButtonBackground.svg"
+    },
+    {
+      "designName": "imgGroup8",
+      "file": "images/WorkTogetherArrow.svg"
+    }
+  ]
+}
